@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  CodeEncrypt.cpp
+D:\InstantFile\OtherApplication\CodeEncrypt1\CodeEncrypt\Cryptographic.hpp(75,24): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+D:\InstantFile\OtherApplication\CodeEncrypt1\CodeEncrypt\Cryptographic.hpp(171,24): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+  CodeEncryptDlg.cpp
+D:\InstantFile\OtherApplication\CodeEncrypt1\CodeEncrypt\Cryptographic.hpp(75,24): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+D:\InstantFile\OtherApplication\CodeEncrypt1\CodeEncrypt\Cryptographic.hpp(171,24): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+D:\InstantFile\OtherApplication\CodeEncrypt1\CodeEncrypt\CodeEncryptDlg.cpp(193,20): warning C4129: “E”: 不可识别的字符转义序列
+  正在生成代码...
+  CodeEncrypt.vcxproj -> D:\InstantFile\OtherApplication\CodeEncrypt1\Debug\CodeEncrypt.exe
